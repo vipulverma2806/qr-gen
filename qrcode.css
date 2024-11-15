@@ -18,8 +18,8 @@ div{
     box-shadow: 10px 10px 10px grey;
     padding:10px;
     text-align: center;
-    height:40px;
-    width:100px;
+    
+    width:400px;
 }
 input{
     display:block;
