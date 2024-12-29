@@ -8,3 +8,5 @@ button.addEventListener("click", () => {
     alert('Provid valid URL')
   }
 });
+
+// QR code gen
